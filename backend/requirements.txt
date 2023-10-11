@@ -1,0 +1,6 @@
+Flask-Cors==3.0.10
+Flask==2.0.2
+validators==0.18.2
+requests==2.22.0
+psycopg2-binary
+python-dotenv
